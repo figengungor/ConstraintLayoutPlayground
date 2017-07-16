@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ConstraintLayoutPlayground</string>
+    <string name="biography">Matthias Schoenaerts (born 8 December 1977) is a Belgian actor, film producer and graffiti artist of Flemish origin. He made his film debut at the age of 13 in Daens (1992), which was nominated for the Academy Award for Best Foreign Language Film. He is best known for his roles as Filip in Loft (2008), Jacky Vanmarsenille in the Oscar-nominated Bullhead (2011), Ali in the BAFTA and Golden Globe-nominee Rust and Bone (2012), for which he won the César Award for Most Promising Actor, Eric Deeds in The Drop (2014), Bruno von Falk in Suite Française (2015), Gabriel Oak in Far from the Madding Crowd (2015) and Hans Axgil in The Danish Girl (2015).</string>
+    <string name="visit_website">Visit Website</string>
+    <string name="image_content_description">Japan Snow monkey is hanging out in a thermal.</string>
+    <string name="spread" translatable="false">Spread</string>
+    <string name="spread_inside" translatable="false">Spread_Inside</string>
+    <string name="packed" translatable="false">Packed</string>
+    <string name="chain_modes" translatable="false">Chain Modes</string>
+    <string name="bias_02_packed" translatable="false">Bias_0.2_Packed</string>
+    <string name="text_view" translatable="false">TextView</string>
+    <string name="weighted_text_view" translatable="false">WeightedTextView</string>
+    <string name="matthias_schoenaerts" translatable="false">Matthias Schoenaerts</string>
+    <string name="linear_layout_orientation_vertical" translatable="false">Vertical</string>
+    <string name="linear_layout_orientation_horizontal" translatable="false">Horizontal</string>
+    <string name="percent_margin_vertical" translatable="false">Percent Margin Vertical</string>
+    <string name="percent_width" translatable="false">Percent Width</string>
+    <string name="horizontally_centered" translatable="false">Horizontally Centered</string>
+    <string name="vertically_centered" translatable="false">Vertically\nCentered</string>
+    <string name="centered" translatable="false">Centered</string>
+    <string name="aligned_baseline" translatable="false">Aligned Baseline</string>
+    <string name="login">Login</string>
+    <string name="not_logged_in_status">You are not logged in.</string>
+    <string name="logged_in_status">Hi 5, you just logged in without username and password.</string>
+    <string name="logout">Logout</string>
+    <string name="centered_in_sibling" translatable="false">Centered in Sibling</string>
+    <string name="centered_in_parent" translatable="false">Centered in Parent</string>
+    <string name="centered_in_edge_of_the_sibling" translatable="false">Centered in Sibling\'s Edge</string>
+</resources>

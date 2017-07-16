@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ConstraintLayoutPlayground</string>
+    <string name="biography">Matthias Schoenaerts (8 Aralık 1977 doğumlu) , Belçikalı bir aktör, film yapımcısı ve grafiti sanatçısıdır.</string>
+    <string name="visit_website">Websitesi\'ne Git</string>
+    <string name="image_content_description">Japon Kar maymunu termalde takılıyor.</string>
+    <string name="login">Giriş Yap</string>
+    <string name="not_logged_in_status">Giriş yapmadınız.</string>
+    <string name="logged_in_status">Çakın bir beşlik, kullanıcı adı ve şifre olmadan giriş yaptınız.</string>
+    <string name="logout">Çıkış</string>
+</resources>

@@ -26,4 +26,28 @@
     <string name="centered_in_sibling" translatable="false">Centered in Sibling</string>
     <string name="centered_in_parent" translatable="false">Centered in Parent</string>
     <string name="centered_in_edge_of_the_sibling" translatable="false">Centered in Sibling\'s Edge</string>
+    <string name="japan_snow_monkey" translatable="false">Japan Snow Monkey</string>
+    <string name="japan_snow_monkey_description" translatable="false">Japanese macaques, commonly known as snow monkeys, are found in the wild only in Japan.
+        They live farther north than any other non-human primate. Like tanukis they are central characters in many folk tales and stories.\n\n
+
+        There are an estimated 150,000 snow monkey living in Japan, a tenfold increase from the World War II era.
+        They range from semi-tropical regions of islands south of Kyushu to the forests and mountains of northern Honshu.
+        Hokkaido is too cold for the snow monkeys.
+        Their ancestors are believed to have arrived from the Korean peninsula 500,000 to 300,000 years ago, long before the first humans arrived.
+        They arrived mostly from the south and west and adapted to the climate and spread over time.\n\n
+
+        The Japanese macaques living in Shimokita Peninsula in Aomori Prefecture in far northern Honshu are the northernmost population of monkeys in the world.
+        Their numbers have increased 10-fold in the last 40 years. They are protected but widely regarded as pests.
+        Monkeys that endure very cold weather are also found in the mountains of China.\n\n
+
+        Humans have been fascinated with snow monkeys for some time. Representations of macaques have been found on prehistoric pottery.
+        In folklore, such as the famous story about the monkey and the crab, monkeys are portrayed as clever thieves.\n\n
+
+        Macaques are a kind of monkey that spends most of its time on the ground and has little use of its tail.
+        There are about 60 different species and subspecies and they range from the Atlantic to the Pacific in Eurasia.\n\n
+
+        David Attenborough wrote, \"The macaque is one of the most successful and versatile of all primates.
+        If you wanted to pick a monkey that is bright, adaptable, versatile, resilient, enterprising,
+        tough and capable of surviving in extreme conditions and taking on all comers, the macaque would win hands down.\"
+    </string>
 </resources>

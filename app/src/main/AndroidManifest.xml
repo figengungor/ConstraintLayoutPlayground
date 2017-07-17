@@ -26,7 +26,8 @@
         <activity android:name=".PercentLayoutActivity" />
         <activity android:name=".RelativeLayoutActivity" />
         <activity android:name=".FreeStyleActivity" />
-        <activity android:name=".CentringActivity"/>
+        <activity android:name=".CentringActivity" />
+        <activity android:name=".ConstraintSetActivity"/>
     </application>
 
 </manifest>

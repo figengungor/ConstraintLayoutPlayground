@@ -53,4 +53,8 @@ public class MainActivity extends AppCompatActivity {
     public void onCentringButtonClicked(View view) {
         startActivity(new Intent(this, CentringActivity.class));
     }
+
+    public void onConstraintSetButtonClicked(View view) {
+        startActivity(new Intent(this, ConstraintSetActivity.class));
+    }
 }
